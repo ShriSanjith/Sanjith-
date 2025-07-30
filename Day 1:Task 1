@@ -1,5 +1,4 @@
- DAY 1         
-TASK 1
+
 var name = "ANY NAME";
 let age = 19;
 const country = "India";
